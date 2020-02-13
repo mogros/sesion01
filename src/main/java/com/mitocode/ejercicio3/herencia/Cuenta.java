@@ -1,4 +1,4 @@
-package com.mitocode.ejercicio1;
+package com.mitocode.ejercicio3.herencia;
 
 public class Cuenta {
 

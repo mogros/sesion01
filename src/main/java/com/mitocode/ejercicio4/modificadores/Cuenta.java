@@ -1,10 +1,10 @@
-package com.mitocode.ejercicio1;
+package com.mitocode.ejercicio4.modificadores;
 
 public class Cuenta {
 
 	private String numeroCuenta;
 	private String titular;
-	private double saldo;
+	protected double saldo;
 
 	public Cuenta() {
 		super();
